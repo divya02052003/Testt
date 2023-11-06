@@ -1,2 +1,1 @@
-# Testt
-this is test templete
+print("hello")
